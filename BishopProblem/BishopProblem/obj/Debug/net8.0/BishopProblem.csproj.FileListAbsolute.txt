@@ -1,0 +1,15 @@
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\bin\Debug\net8.0\BishopProblem.exe
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\bin\Debug\net8.0\BishopProblem.deps.json
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\bin\Debug\net8.0\BishopProblem.runtimeconfig.json
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\bin\Debug\net8.0\BishopProblem.dll
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\bin\Debug\net8.0\BishopProblem.pdb
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.AssemblyInfo.cs
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.sourcelink.json
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.dll
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\refint\BishopProblem.dll
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.pdb
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\BishopProblem.genruntimeconfig.cache
+C:\Users\owner\source\repos\BishopProblem\BishopProblem\BishopProblem\obj\Debug\net8.0\ref\BishopProblem.dll
